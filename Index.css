@@ -1,0 +1,22 @@
+.nav {
+    width: 355px;
+    background-color: lightblue;
+    margin-left: auto;
+    margin: 0 auto;
+    text-align: center;
+    padding: 35px;
+}
+.navigation {
+    width: 355px;
+    background-color: lightblue;
+    margin-left: auto;
+    margin: 0 auto;
+    text-align: center;
+    padding: 35px;   
+}
+.h1 {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 25pt;
+    font: Ariel;
+}
